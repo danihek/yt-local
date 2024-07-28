@@ -1,0 +1,22 @@
+:root {
+    --background:           #282828;
+    --text:                 #ebdbb2;
+    --secondary-hover:      #ebdbb2;
+    --secondary-focus:      #3c3836;
+    --secondary-inverse:    #282828;
+    --primary-background:   #3c3836;
+    --secondary-background: #504945;
+    --thumb-background:     #3c3836;
+    --link:                 #d3869b;
+    --link-visited:         #b16286;
+    --border-bg:            #282828;
+    --border-bg-settings:   #928374;
+    --border-bg-license:    #928374;
+    --buttom:               #282828;
+    --buttom-text:          #ebdbb2;
+    --button-border:        #928374;
+    --buttom-hover:         #665c54;
+    --search-text:          #ebdbb2;
+    --time-background:      #282828;
+    --time-text:            #ebdbb2;
+}
