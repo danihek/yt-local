@@ -55,7 +55,15 @@ header {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1rem;
-    margin-top: 1rem;
+    margin-top: 2rem;
+}
+
+.semi-home {
+    grid-area: home;
+    margin-left: 0.5%;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
 }
 
 .form {
@@ -71,6 +79,49 @@ header {
 .search-box {
     grid-area: search-box;
 }
+
+.yt-local-button {
+    cursor: pointer;
+    padding-bottom: 6px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 6px;
+    text-align: center;
+    white-space: nowrap;
+    background-color: var(--buttom);
+    border: 2px solid var(--text);
+    color: var(--buttom-text);
+    border-radius: 5px;
+}
+
+.playlists-button {
+    cursor: pointer;
+    padding-bottom: 6px;
+    padding-left: .75em;
+    padding-right: .75em;
+    padding-top: 6px;
+    text-align: center;
+    white-space: nowrap;
+    background-color: var(--buttom);
+    border: 1px solid var(--button-border);
+    color: var(--buttom-text);
+    border-radius: 5px;
+}
+
+.settings-button {
+    cursor: pointer;
+    padding-bottom: 6px;
+    padding-left: .75em;
+    padding-right: .75em;
+    padding-top: 6px;
+    text-align: center;
+    white-space: nowrap;
+    background-color: var(--buttom);
+    border: 1px solid var(--button-border);
+    color: var(--buttom-text);
+    border-radius: 5px;
+}
+
 .search-button {
     grid-area: search-button;
 
@@ -144,8 +195,8 @@ label[for=options-toggle-cbox] {
 /*- ----------- End Menu Mobile sin JS ------------- */
 
 .main {
+    margin-left: 1px;
     grid-area: main;
-    margin: 0 auto;
     max-width: 80ch;
 }
 
