@@ -58,6 +58,16 @@ header {
     margin-top: 2rem;
 }
 
+@media screen and (min-width: 780px) {
+    .home {
+        grid-area: home;
+        margin-right: 0.5%;
+        margin-right: auto;
+        margin-bottom: 1rem;
+        margin-top: 2rem;
+    }
+}
+
 .semi-home {
     grid-area: home;
     margin-left: 0.5%;
@@ -267,3 +277,4 @@ label[for=options-toggle-cbox] {
         margin-bottom: 1rem;
     }
 }
+
