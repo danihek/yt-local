@@ -1,6 +1,6 @@
 # yt-local
 
-It's copy of repo of [heckyel](https://git.sr.ht/~heckyel/yt-local), I just wanted to save some of my changes.  - ***danihek***]
+It's copy of repo of [heckyel](https://git.sr.ht/~heckyel/yt-local), I just wanted to save some of my changes.  - ***danihek***
 #
 
 Fork of [youtube-local](https://github.com/user234683/youtube-local)
